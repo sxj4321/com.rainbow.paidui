@@ -15,7 +15,7 @@ public class UserController {
 		// 设置逻辑视图名，视图解析器会根据该名字解析到具体的视图页面
 		mv.setViewName("index");
 		
-		System.out.println("11111");
+		System.out.println("2222");
 		return mv;
 	}
 }
